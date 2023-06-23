@@ -1,0 +1,16 @@
+{
+    "name": "long/day-la-plugin-tu-viet",
+    "description": "Awesime plugin test\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[o",
+    "type": "project",
+    "license": "Test",
+    "autoload": {
+        "psr-4": {
+            "Long\\DayLaPluginTuViet\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
